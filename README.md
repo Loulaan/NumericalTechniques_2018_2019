@@ -1,1 +1,1 @@
-# Numerical Techniques homework assignment
+# Numerical Techniques homework assignments
