@@ -1,1 +1,1 @@
-# NumericalTechniques_2018_2019
+# Numerical Techniques homework assignment
